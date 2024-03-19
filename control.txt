@@ -1,0 +1,5 @@
+Control1	1	12345	rs123	A	G	.	PASS	0/1	21	16
+Control2	1	12345	rs123	A	G	.	PASS	0/1	31	21
+Control3	1	67890	rs456	C	T	.	PASS	1/1	26	19
+Control4	1	67890	rs456	C	T	.	PASS	0/1	23	18
+Control5	1	67890	rs456	C	T	.	PASS	0/1	29	23
