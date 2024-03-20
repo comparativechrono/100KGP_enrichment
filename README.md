@@ -1,5 +1,5 @@
 # 100KGP_enrichment
-###*Enrichment analysis scripts for working on case control data in the 100KGP in a multi-sample tidy vcf data format rather than aggregate data files*
+### *Enrichment analysis scripts for working on case control data in the 100KGP in a multi-sample tidy vcf data format rather than aggregate data files*
 
 The main directory contains notebooks for performing enrichment analysis. The PRS subdirectory contains PRS calculations on the same input data.
 
