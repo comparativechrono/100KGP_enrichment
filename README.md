@@ -26,6 +26,8 @@ The required fields in the VCF input files are:
 | GQ          | Genotype Quality, a measure of the quality of the genotype call |
 | DP          | Depth of sequence coverage at the site of the variant |
 
+Example files are given in `cases.txt` and `control.txt`.
+
 # Allele Frequency Analysis
 
 This directory contains Jupyter notebooks for performing allele frequency analysis on genetic variant data extracted from VCF files in a modified wide mulit-sample VCF, to make the whole data compliant with tidyverse long data format. The analysis calculates allele frequencies for each variant and performs Fisher's Exact Test to compare the frequencies between cases and controls. The repository includes both R and Python implementations.
