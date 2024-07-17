@@ -46,4 +46,4 @@ Ensure you have R and the R kernel for Jupyter installed.
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENCE file for details.
